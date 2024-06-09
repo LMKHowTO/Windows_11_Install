@@ -3,7 +3,7 @@
 ### Configuración Inicial
 1. Configuramos el `país/región`
 2. Elegimos el/los `métodos de entrada` que queramos
-3. Configuramos la cuenta local
+3. Configuramos la 'cuenta local'
 ### Activar cuenta de `Administrador`:
 1. Click derecho en el icono de Windows
 2. Abrimos `Administración de equipos`
